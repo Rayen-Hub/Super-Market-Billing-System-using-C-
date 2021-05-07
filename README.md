@@ -3,8 +3,6 @@ FEATURES
 * Used CRUD operations
 * Command Line Output
 
-LANGUAGE
-* C++
-
-TOOL
-* DEV C++
+SPECIFICATIONS
+* Language: C++
+* Tool: DEV C++
